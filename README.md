@@ -28,6 +28,32 @@ By using these starter guides, you:
 ✅ **Get hands-on with real projects** – Go beyond theory and start building.  
 ✅ **Join an active community** – Network, collaborate, and push the limits of Web3 together.  
 
+This repository contains integration guides and examples for various blockchain platforms and protocols.
+
+## Supported Platforms
+
+- [Solana](./solana/README.md) - High-performance Layer 1 blockchain
+- [Polygon](./polygon/README.md) - Ethereum Layer 2 scaling solution
+- [Aptos](./aptos/README.md) - Layer 1 blockchain using Move language
+- [Stellar](./stellar/README.md) - Payment-focused blockchain platform
+- [SUI](./sui/README.md) - Asset-oriented Layer 1 blockchain
+- [Avalanche](./avalanche/README.md) - High-performance blockchain platform
+- [Monad](./monad/README.md) - EVM-compatible Layer 1 blockchain
+- [ApeChain](./apechain/README.md) - Gaming and NFT-focused blockchain
+- [Reclaim Protocol](./reclaim-protocol/README.md) - Privacy-preserving credential verification
+
+## Getting Started
+
+Each directory contains:
+- Platform-specific documentation
+- Integration guides
+- Code examples
+- Resource links
+
+## Contributing
+
+Please refer to individual platform directories for specific contribution guidelines.
+
 Be Limitless 
 Zo Zo Zo
 
